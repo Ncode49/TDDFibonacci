@@ -9,3 +9,7 @@ $F_2 = 1, F_3 = 2, F_4 = 3, F_5 = 5$
 # Initialize from repository
 
 `npm install`
+
+# Lauch unit test automattically
+
+`npm test -- --watch`

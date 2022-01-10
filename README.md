@@ -12,4 +12,4 @@ $F_2 = 1, F_3 = 2, F_4 = 3, F_5 = 5$
 
 # Lauch unit test automattically
 
-`npm test -- --watch`
+`npm test -- --watchAll`

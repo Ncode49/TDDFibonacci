@@ -10,6 +10,6 @@ $F_2 = 1, F_3 = 2, F_4 = 3, F_5 = 5$
 
 `npm install`
 
-# Lauch unit test automattically
+# Lauch unit test automatically
 
 `npm test -- --watchAll`
